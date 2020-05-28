@@ -11,7 +11,6 @@
 		3E7D155C246D12460079F0C6 /* WriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7D155B246D12460079F0C6 /* WriteViewController.swift */; };
 		3E7D155E246D16BD0079F0C6 /* WriteViewControllerReactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7D155D246D16BD0079F0C6 /* WriteViewControllerReactor.swift */; };
 		3E7D1561246D2D260079F0C6 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7D1560246D2D260079F0C6 /* Util.swift */; };
-		3ED3C5D0247510E30041F453 /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED3C5CF247510E30041F453 /* AlertService.swift */; };
 		3EDBADEC246B7E880064E167 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EDBADEB246B7E880064E167 /* AppDelegate.swift */; };
 		3EDBADF0246B7E880064E167 /* ReadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EDBADEF246B7E880064E167 /* ReadViewController.swift */; };
 		3EDBADF3246B7E880064E167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EDBADF1246B7E880064E167 /* Main.storyboard */; };
@@ -43,7 +42,6 @@
 		3E7D155B246D12460079F0C6 /* WriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteViewController.swift; sourceTree = "<group>"; };
 		3E7D155D246D16BD0079F0C6 /* WriteViewControllerReactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteViewControllerReactor.swift; sourceTree = "<group>"; };
 		3E7D1560246D2D260079F0C6 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
-		3ED3C5CF247510E30041F453 /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
 		3EDBADE8246B7E880064E167 /* RxMemoTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxMemoTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EDBADEB246B7E880064E167 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EDBADEF246B7E880064E167 /* ReadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadViewController.swift; sourceTree = "<group>"; };
@@ -139,7 +137,6 @@
 				3E14921D24775A2200CBB631 /* Service */,
 				3EDBAE12246BBA660064E167 /* Read */,
 				3EDBAE13246BBAB40064E167 /* Write */,
-				3ED3C5CF247510E30041F453 /* AlertService.swift */,
 				3EDBADEB246B7E880064E167 /* AppDelegate.swift */,
 				3EDBAE14246BBAE50064E167 /* SceneDelegate.swift */,
 				3EDBADF1246B7E880064E167 /* Main.storyboard */,
@@ -385,7 +382,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3ED3C5D0247510E30041F453 /* AlertService.swift in Sources */,
 				3EDBAE17246BBBCB0064E167 /* ReadViewControllerReactor.swift in Sources */,
 				3E7D1561246D2D260079F0C6 /* Util.swift in Sources */,
 				3EDBAE15246BBAE50064E167 /* SceneDelegate.swift in Sources */,
