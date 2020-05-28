@@ -1,0 +1,6 @@
+framework module Pods_RxMemoTestTests {
+  umbrella header "Pods-RxMemoTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

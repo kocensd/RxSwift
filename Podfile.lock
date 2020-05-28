@@ -1,0 +1,75 @@
+PODS:
+  - Differentiator (4.0.1)
+  - ReactorKit (2.0.1):
+    - RxSwift (~> 5.0)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxExpect (2.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+    - RxTest (~> 5.0)
+  - RxOptional (4.1.0):
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - RxTest (5.1.1):
+    - RxSwift (~> 5)
+  - RxViewController (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+
+DEPENDENCIES:
+  - ReactorKit
+  - RealmSwift
+  - RxCocoa
+  - RxDataSources
+  - RxExpect
+  - RxOptional
+  - RxSwift
+  - RxTest
+  - RxViewController
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - ReactorKit
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxDataSources
+    - RxExpect
+    - RxOptional
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - RxViewController
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  ReactorKit: a63c5e11e0fd32d59d672e54178b0ed2876b764b
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxExpect: 0685c9003c6d38532d5b101367eaf86b3adda81a
+  RxOptional: b1fcd60856807a564c0215c2184b8d33e7826dc2
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  RxTest: 711632d5644dffbeb62c936a521b5b008a1e1faa
+  RxViewController: 7330a46e5c31cd680db169da4c9fc8676e975a81
+
+PODFILE CHECKSUM: efb9408f66cf0590cb7daa6bfd70e28d33b9ed80
+
+COCOAPODS: 1.8.4
